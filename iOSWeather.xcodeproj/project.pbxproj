@@ -380,7 +380,7 @@
 				};
 			};
 			buildConfigurationList = 34E936F727906EB1003C5FD7 /* Build configuration list for PBXProject "iOSWeather" */;
-			compatibilityVersion = "Xcode 11.0";
+			compatibilityVersion = "Xcode 11.4";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
