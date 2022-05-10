@@ -2,7 +2,7 @@
 //  String+emptySting.swift
 //  iOSWeather
 //
-//  Created by Artur Ryzhikh on 16.01.2022.
+//  Created by MEROUANE Yassine.
 //
 
 import Foundation

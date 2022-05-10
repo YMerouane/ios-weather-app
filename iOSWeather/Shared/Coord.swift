@@ -2,7 +2,7 @@
 //  Coordinates.swift
 //  iOSWeather
 //
-//  Created by Artur Ryzhikh on 18.01.2022.
+//  Created by MEROUANE Yassine.
 //
 
 import Foundation

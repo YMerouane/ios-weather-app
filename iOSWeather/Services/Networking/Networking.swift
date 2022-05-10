@@ -2,7 +2,7 @@
 //  Networking.swift
 //  iOSWeather
 //
-//  Created by Artur Ryzhikh on 14.01.2022.
+//  Created by MEROUANE Yassine.
 //
 
 import Foundation

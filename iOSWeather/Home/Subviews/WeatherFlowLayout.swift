@@ -2,7 +2,7 @@
 //  WeatherFlowLayout.swift
 //  iOSWeather
 //
-//  Created by Artur Ryzhikh on 13.01.2022.
+//  Created by MEROUANE Yassine.
 //
 import UIKit
 
